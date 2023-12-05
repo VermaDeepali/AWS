@@ -1,0 +1,2 @@
+1. If you want to search a word from overall data logs then click on search all log groups and enter the word for searching.
+2. If you want tto search multtiple words in one go just give space in search bar and add the next word for searching
