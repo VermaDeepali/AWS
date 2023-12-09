@@ -2,3 +2,5 @@ Amazon Kinesis cost-effectively processes and analyzes streaming data at any sca
 With Kinesis, you can ingest real-time data, such as video, audio, application logs, website clickstreams, 
 and IoT telemetry data, for machine learning (ML), analytics, and other applications.
 Amazon Kinesis Data Streams is a serverless streaming data service that simplifies the capture, processing, and storage of data streams at any scale.
+
+Link to download kinesis log through CLI: https://docs.aws.amazon.com/streams/latest/dev/fundamental-stream.html
