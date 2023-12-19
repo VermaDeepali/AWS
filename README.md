@@ -2,7 +2,7 @@
 
 All about aws-services:
 
-''' 1. Cloudwatch '''
+1. Cloudwatch
 2. Lambda
 3. Serverless
 4. API Gateway
