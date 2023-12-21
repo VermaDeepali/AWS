@@ -10,3 +10,4 @@ All about aws-services:
 6. S3
 7. Secrets Manager
 8. Kinesis Stream
+9. Secret Manager
