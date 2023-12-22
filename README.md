@@ -11,3 +11,4 @@ All about aws-services:
 7. Secrets Manager
 8. Kinesis Stream
 9. Secret Manager
+10. Rules and Policies
