@@ -1,0 +1,7 @@
+Received event: {
+    "msg": "Hey there!!"
+  }
+  response {
+    statusCode: 200,
+    body: '{"message":"Hello from AWS Lambda!","input":{"msg":"Hey there!!"}}'
+  }
