@@ -1,5 +1,23 @@
 Link: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 
-1. AWS Lambda is an event-driven, serverless computing platform provided by Amazon as a part of Amazon Web Services. 
+1. AWS Lambda is an event-driven, serverless computing platform provided by Amazon as a part of Amazon Web Services.
+
 2. It is designed to enable developers to run code without provisioning or managing servers. 
-3. It executes code in response to events and automatically manages the computing resources required by that code
+
+3. It executes code in response to events and automatically manages the computing resources required by that code.
+
+4. With Lambda, all you need to do is supply your code in one of the language runtimes that Lambda supports.
+
+// When to use Lambda
+
+1. File processing
+
+2. Stream processing
+
+3. Web applications
+
+4. IoT backends
+
+5. Mobile backends
+
+NOTE: When using Lambda, you are responsible only for your code. Lambda manages the compute fleet that offers a balance of memory, CPU, network, and other resources to run your code.
