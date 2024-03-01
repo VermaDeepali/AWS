@@ -13,3 +13,4 @@ All about aws-services:
 9. Secret Manager
 10. Rules and Policies
 11. Cloudfront
+12. Firehose
