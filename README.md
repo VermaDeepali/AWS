@@ -14,3 +14,4 @@ All about aws-services:
 10. Rules and Policies
 11. Cloudfront
 12. Firehose
+13. Athena
