@@ -1,6 +1,6 @@
 ## AWS
 
-All about aws-services:
+All about AWS-Services:
 
 1. Cloudwatch
 2. Lambda
